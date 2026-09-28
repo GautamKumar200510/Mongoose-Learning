@@ -15,7 +15,7 @@ This repository demonstrates how to connect a Node.js application with MongoDB u
 - Deleting documents
 - Basic CRUD operations
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Node.js
 - JavaScript
