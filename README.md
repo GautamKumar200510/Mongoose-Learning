@@ -36,7 +36,7 @@ Mongoose-Learning/
 └── README.md
 ```
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Clone the repository
 
@@ -80,7 +80,7 @@ const bookSchema = new mongoose.Schema({
 const Book = mongoose.model("Book", bookSchema);
 ```
 
-## 🔄 CRUD Operations
+##  CRUD Operations
 
 **Create**
 
@@ -116,11 +116,11 @@ await Book.deleteOne({
 });
 ```
 
-## 🎯 Purpose
+##  Purpose
 
 The purpose of this repository is to understand how **Mongoose acts as an ODM (Object Data Modeling) library** for MongoDB and makes it easier to work with MongoDB databases in Node.js applications.
 
-## 👨‍💻 Author
+##  Author
 
 **Gautam Kumar**
 
