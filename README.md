@@ -4,7 +4,7 @@ A beginner-friendly project created to learn and practice **Mongoose with MongoD
 
 This repository demonstrates how to connect a Node.js application with MongoDB using Mongoose, create schemas and models, and perform basic CRUD operations.
 
-## 📌 Topics Covered
+##  Topics Covered
 
 - MongoDB connection using Mongoose
 - Creating Mongoose Schemas
